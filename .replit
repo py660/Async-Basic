@@ -1,5 +1,5 @@
 run = "clear; python3 abas/main.py"
-hidden = ["mlan"]
+hidden = ["mlan", ".*"]
 
 [nix]
 channel = "stable-22_11"

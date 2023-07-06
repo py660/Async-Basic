@@ -10,7 +10,7 @@ cd Async-Basic
 ```
 Install
 ```
-bash install.sh
+./install.sh
 ```
 
 # Docs and Syntax
