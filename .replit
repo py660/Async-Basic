@@ -1,0 +1,5 @@
+run = "clear; python3 mlan/main.py"
+hidden = ["mlan"]
+
+[nix]
+channel = "stable-22_11"

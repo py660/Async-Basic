@@ -1,0 +1,3 @@
+Async Basic, or AB, is a Asynchronous Bash-infused QBasic-based dialect of the BASIC programming language.
+Async Basic, abbreviated as AB, represents an asynchronously integrated variant of the venerable BASIC programming language, imbued with the essence of Bash and rooted in the foundational framework of QBasic.
+Async Basic, known by its abbreviated form AB, embodies a sophisticated amalgamation of the BASIC programming language, replete with asynchronous capabilities, intertwined with the commanding attributes of Bash scripting, firmly grounded upon the bedrock of QBasic.
