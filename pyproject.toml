@@ -1,12 +1,11 @@
 [tool.poetry]
-name = "repl_nix_Async-Basic"
+name = "AsyncBasic"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "AsyncBasic, known by its abbreviated form AB or ABas, embodies a sophisticated amalgamation of the BASIC programming language, replete with asynchronous capabilities, intertwined with the commanding attributes of Bash scripting, firmly grounded upon the bedrock of QBasic."
+authors = ["py660 <raspberrypy660@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.10"
-tokenizer = "^3.4.2"
+python = "^3.9"
 
 [tool.poetry.dev-dependencies]
 
