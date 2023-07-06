@@ -4,5 +4,4 @@ PRINT "Hello world!"
 PRI "Short comman"
 LET $word= ""
 IF %word="bye" THEN
-
-FI
+BASH ls
