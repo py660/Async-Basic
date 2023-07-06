@@ -1,4 +1,4 @@
-run = "clear; python3 mlan/main.py"
+run = "clear; python3 abas/main.py"
 hidden = ["mlan"]
 
 [nix]
